@@ -1,0 +1,30 @@
+body  {
+text-align: center;
+background-image: url('soft3.jpg');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% 100%;
+}
+
+header  {
+text-align: center;
+font-size: 200%;	
+}
+h1  {
+font-family: Perpetua titling mt;
+font-size: 300%;
+color: #a52a2a;	
+}
+
+h2  {
+font-size: 250%;	
+}
+
+p  {
+font-family: mv boli;
+font-size: 200;	
+}
+
+h4  {
+font-family: Informal roman;	
+}
